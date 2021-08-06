@@ -1,6 +1,6 @@
 # Recruitment Exercise
 
-Recruitment exercise for Valtech Mobility.
+Recruitment exercise.
 
 ## Prerequisites
 
