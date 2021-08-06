@@ -17,4 +17,4 @@ Recruitment exercise.
 ## Discussion
 
 * Can this code be refactored? Are there any problems with the code?
-* Why is `"deletedPersons": rowcount` this line in the code?
+* Why is `"deletedPersons": rowcount` in the code?
